@@ -26,7 +26,7 @@ wall.shapeColor = color(255,0,0);
 }
 if(damage<10)
 {
-bwall.shapeColor = color(0,255,0);
+wall.shapeColor = color(0,255,0);
 }
 
  }
